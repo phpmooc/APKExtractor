@@ -1,6 +1,16 @@
 # APKExtractor
  Simple APK extractor app for Android, supports split APKs and saving them as single APK
 
+# Note
+
+This app is outdated all features and more have been implemented in my new app [MP Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) with better interface and more
+
+<p align="center">
+  <img src="https://github.com/AbdurazaaqMohammed/MP-Manager/raw/main/images/Ss2.png" width="200" alt="Bookmarks and history drawer">
+  <br>
+  Improved APK Extractor in MP Manager
+</p>
+
 ## Download
 ### GitHub
 [![GitHub Release](https://img.shields.io/github/v/release/AbdurazaaqMohammed/APKExtractor?style=for-the-badge&logo=github&label=APK%20Extractor&color=purple)](https://github.com/AbdurazaaqMohammed/APKExtractor/releases)
