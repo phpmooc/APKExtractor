@@ -3,12 +3,12 @@
 
 # Note
 
-This app is outdated all features and more have been implemented in my new app [MP Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) with better interface and more
+This app is outdated all features and more have been implemented with better speed and interface in my new app <a href="https://github.com/AbdurazaaqMohammed/MP-Manager">MP Manager</a>, Try it instead
 
 <p align="center">
-  <img src="https://github.com/AbdurazaaqMohammed/MP-Manager/raw/main/images/Ss2.png" width="200" alt="Bookmarks and history drawer">
+  <img src="https://github.com/AbdurazaaqMohammed/MP-Manager/raw/main/images/Ss2.png" width="250" alt="Screenshot of Improved APK Extractor in MP Manager">
   <br>
-  Improved APK Extractor in MP Manager
+  Improved APK Extractor in <a href="https://github.com/AbdurazaaqMohammed/MP-Manager">MP Manager</a>
 </p>
 
 ## Download
